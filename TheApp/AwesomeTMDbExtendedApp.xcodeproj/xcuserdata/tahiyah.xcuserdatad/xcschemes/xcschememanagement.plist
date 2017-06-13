@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AwesomeTMDbExtendedApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>ScrollPager.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4BD12F951EA150E70022C931</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BD12FA91EA150E70022C931</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BD12FB41EA150E70022C931</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BD1305D1EA15BD10022C931</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
